@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "zalo.iot.vn", "zalo.iot.vn\", "{B76F280C-02F7-4524-8686-58BDA754F1A1}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_65059"
+		Debug.AspNetCompiler.PhysicalPath = "zalo.iot.vn\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_65059\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_65059"
+		Release.AspNetCompiler.PhysicalPath = "zalo.iot.vn\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_65059\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "65059"
+		SlnRelativePath = "zalo.iot.vn\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B76F280C-02F7-4524-8686-58BDA754F1A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B76F280C-02F7-4524-8686-58BDA754F1A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D11D306-5FFD-4DA4-AF71-2120BAA6F635}
+	EndGlobalSection
+EndGlobal

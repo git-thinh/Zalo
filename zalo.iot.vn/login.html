@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Login</title>
+    <script src="https://zjs.zdn.vn/zalo/sdk.js"></script>
+</head>
+<body>
+    <h1>LOGIN</h1>
+    <script type="text/javascript">
+
+        // Khởi tạo SDK
+        // Hàm dưới đây được dùng để khởi tạo và cài đặt Zalo JavaScript SDK.
+        // Tất cả các hàm khác phải được gọi sau khi thực thi hàm này, bởi vì chúng sẽ không tồn tại cho tới khi bạn khởi tạo SDK.
+        // version:  xác định phiên bản SDK mà bạn muốn sử dụng
+        // appId:  ID của ứng dụng đã được đăng ký với Zalo
+        // redirectUrl:  redirectUrl mà bạn đã đăng ký với Zalo
+
+        Zalo.init({
+            version: '2.0',
+            appId: '4493888734077794545',
+            redirectUrl: 'http://zalo.iot.vn/ok.html'
+        });
+
+        // Check login status
+
+        Zalo.getLoginStatus(function (response) {
+            if (response.status === 'connected') {
+                Zalo.api('/me',
+                    'GET',
+                    {
+                        fields: 'id,name'
+                    },
+                    function (response) {
+                        console.log(response);
+                    }
+                );
+            } else {
+                Zalo.login(curentState);
+            }
+        });
+
+    </script>
+</body>
+</html>

@@ -1,0 +1,7 @@
+D:\Git\Zalo\ZaloDotNetSDK\src\ConsoleAppDemo\bin\Debug\ConsoleAppDemo.exe.config
+D:\Git\Zalo\ZaloDotNetSDK\src\ConsoleAppDemo\bin\Debug\ConsoleAppDemo.exe
+D:\Git\Zalo\ZaloDotNetSDK\src\ConsoleAppDemo\bin\Debug\ConsoleAppDemo.pdb
+D:\Git\Zalo\ZaloDotNetSDK\src\ConsoleAppDemo\obj\Debug\ConsoleAppDemo.csprojAssemblyReference.cache
+D:\Git\Zalo\ZaloDotNetSDK\src\ConsoleAppDemo\obj\Debug\ConsoleAppDemo.csproj.CoreCompileInputs.cache
+D:\Git\Zalo\ZaloDotNetSDK\src\ConsoleAppDemo\obj\Debug\ConsoleAppDemo.exe
+D:\Git\Zalo\ZaloDotNetSDK\src\ConsoleAppDemo\obj\Debug\ConsoleAppDemo.pdb

@@ -1,0 +1,14 @@
+D:\Git\Zalo\ZaloDotNetSDK\src\ConsoleAppDemo\bin\Debug\ConsoleAppDemo.exe.config
+D:\Git\Zalo\ZaloDotNetSDK\src\ConsoleAppDemo\bin\Debug\ConsoleAppDemo.exe
+D:\Git\Zalo\ZaloDotNetSDK\src\ConsoleAppDemo\bin\Debug\ConsoleAppDemo.pdb
+D:\Git\Zalo\ZaloDotNetSDK\src\ConsoleAppDemo\bin\Debug\Newtonsoft.Json.dll
+D:\Git\Zalo\ZaloDotNetSDK\src\ConsoleAppDemo\bin\Debug\System.Net.Http.Formatting.dll
+D:\Git\Zalo\ZaloDotNetSDK\src\ConsoleAppDemo\bin\Debug\ZaloDotNetSDK.dll
+D:\Git\Zalo\ZaloDotNetSDK\src\ConsoleAppDemo\bin\Debug\Newtonsoft.Json.xml
+D:\Git\Zalo\ZaloDotNetSDK\src\ConsoleAppDemo\bin\Debug\System.Net.Http.Formatting.xml
+D:\Git\Zalo\ZaloDotNetSDK\src\ConsoleAppDemo\obj\Debug\ConsoleAppDemo.4.6.csprojAssemblyReference.cache
+D:\Git\Zalo\ZaloDotNetSDK\src\ConsoleAppDemo\obj\Debug\ConsoleAppDemo.exe.config
+D:\Git\Zalo\ZaloDotNetSDK\src\ConsoleAppDemo\obj\Debug\ConsoleAppDemo.4.6.csproj.CoreCompileInputs.cache
+D:\Git\Zalo\ZaloDotNetSDK\src\ConsoleAppDemo\obj\Debug\ConsoleAppDemo.4.6.csproj.CopyComplete
+D:\Git\Zalo\ZaloDotNetSDK\src\ConsoleAppDemo\obj\Debug\ConsoleAppDemo.exe
+D:\Git\Zalo\ZaloDotNetSDK\src\ConsoleAppDemo\obj\Debug\ConsoleAppDemo.pdb

@@ -1,0 +1,6 @@
+D:\zalo\Zalo\ZaloDotNetSDK\src\zalo_console_test_35\bin\Debug\zalo_console_test_35.exe
+D:\zalo\Zalo\ZaloDotNetSDK\src\zalo_console_test_35\bin\Debug\zalo_console_test_35.pdb
+D:\zalo\Zalo\ZaloDotNetSDK\src\zalo_console_test_35\obj\Debug\zalo_console_test_35.csproj.AssemblyReference.cache
+D:\zalo\Zalo\ZaloDotNetSDK\src\zalo_console_test_35\obj\Debug\zalo_console_test_35.csproj.CoreCompileInputs.cache
+D:\zalo\Zalo\ZaloDotNetSDK\src\zalo_console_test_35\obj\Debug\zalo_console_test_35.exe
+D:\zalo\Zalo\ZaloDotNetSDK\src\zalo_console_test_35\obj\Debug\zalo_console_test_35.pdb

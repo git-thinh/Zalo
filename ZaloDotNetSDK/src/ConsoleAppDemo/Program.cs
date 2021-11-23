@@ -20,9 +20,9 @@ namespace ConsoleAppDemo
     {
         static void Main(string[] args)
         {
-            long appId = 4493888734077794545;
-            string secretKey = "2KOY8CIBqKEwbGJ7TV1k";
-            string callbackUrl = "http://zalo.iot.vn/ok.html";
+            long appId = 400935361715655638;
+            string secretKey = "Cp31r0OxUdbX1UGGDG5z";
+            string callbackUrl = "http://zalo.iot.vn/api/notify/zalo/zalo_redirect_uri";
 
             var appClient = new Zalo3rdAppClient(new ZaloAppInfo(appId, secretKey, callbackUrl));
 

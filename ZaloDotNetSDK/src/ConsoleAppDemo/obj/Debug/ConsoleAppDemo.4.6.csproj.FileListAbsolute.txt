@@ -12,3 +12,16 @@ D:\Git\Zalo\ZaloDotNetSDK\src\ConsoleAppDemo\obj\Debug\ConsoleAppDemo.4.6.csproj
 D:\Git\Zalo\ZaloDotNetSDK\src\ConsoleAppDemo\obj\Debug\ConsoleAppDemo.4.6.csproj.CopyComplete
 D:\Git\Zalo\ZaloDotNetSDK\src\ConsoleAppDemo\obj\Debug\ConsoleAppDemo.exe
 D:\Git\Zalo\ZaloDotNetSDK\src\ConsoleAppDemo\obj\Debug\ConsoleAppDemo.pdb
+D:\zalo\Zalo\ZaloDotNetSDK\src\ConsoleAppDemo\bin\Debug\ConsoleAppDemo.exe.config
+D:\zalo\Zalo\ZaloDotNetSDK\src\ConsoleAppDemo\bin\Debug\ConsoleAppDemo.exe
+D:\zalo\Zalo\ZaloDotNetSDK\src\ConsoleAppDemo\bin\Debug\ConsoleAppDemo.pdb
+D:\zalo\Zalo\ZaloDotNetSDK\src\ConsoleAppDemo\bin\Debug\Newtonsoft.Json.dll
+D:\zalo\Zalo\ZaloDotNetSDK\src\ConsoleAppDemo\bin\Debug\System.Net.Http.Formatting.dll
+D:\zalo\Zalo\ZaloDotNetSDK\src\ConsoleAppDemo\bin\Debug\ZaloDotNetSDK.dll
+D:\zalo\Zalo\ZaloDotNetSDK\src\ConsoleAppDemo\bin\Debug\Newtonsoft.Json.xml
+D:\zalo\Zalo\ZaloDotNetSDK\src\ConsoleAppDemo\bin\Debug\System.Net.Http.Formatting.xml
+D:\zalo\Zalo\ZaloDotNetSDK\src\ConsoleAppDemo\obj\Debug\ConsoleAppDemo.4.6.csproj.AssemblyReference.cache
+D:\zalo\Zalo\ZaloDotNetSDK\src\ConsoleAppDemo\obj\Debug\ConsoleAppDemo.exe.config
+D:\zalo\Zalo\ZaloDotNetSDK\src\ConsoleAppDemo\obj\Debug\ConsoleAppDemo.4.6.csproj.CoreCompileInputs.cache
+D:\zalo\Zalo\ZaloDotNetSDK\src\ConsoleAppDemo\obj\Debug\ConsoleAppDemo.exe
+D:\zalo\Zalo\ZaloDotNetSDK\src\ConsoleAppDemo\obj\Debug\ConsoleAppDemo.pdb

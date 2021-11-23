@@ -1,0 +1,10 @@
+D:\zalo\Zalo\ZaloDotNetSDK\src\sdk\build\netcoreapp2.1\ZaloDotNetSDK.deps.json
+D:\zalo\Zalo\ZaloDotNetSDK\src\sdk\build\netcoreapp2.1\ZaloDotNetSDK.dll
+D:\zalo\Zalo\ZaloDotNetSDK\src\sdk\build\netcoreapp2.1\ZaloDotNetSDK.pdb
+D:\zalo\Zalo\ZaloDotNetSDK\src\sdk\obj\Debug\netcoreapp2.1\ZaloDotNetSDK.csproj.AssemblyReference.cache
+D:\zalo\Zalo\ZaloDotNetSDK\src\sdk\obj\Debug\netcoreapp2.1\ZaloDotNetSDK.GeneratedMSBuildEditorConfig.editorconfig
+D:\zalo\Zalo\ZaloDotNetSDK\src\sdk\obj\Debug\netcoreapp2.1\ZaloDotNetSDK.AssemblyInfoInputs.cache
+D:\zalo\Zalo\ZaloDotNetSDK\src\sdk\obj\Debug\netcoreapp2.1\ZaloDotNetSDK.AssemblyInfo.cs
+D:\zalo\Zalo\ZaloDotNetSDK\src\sdk\obj\Debug\netcoreapp2.1\ZaloDotNetSDK.csproj.CoreCompileInputs.cache
+D:\zalo\Zalo\ZaloDotNetSDK\src\sdk\obj\Debug\netcoreapp2.1\ZaloDotNetSDK.dll
+D:\zalo\Zalo\ZaloDotNetSDK\src\sdk\obj\Debug\netcoreapp2.1\ZaloDotNetSDK.pdb

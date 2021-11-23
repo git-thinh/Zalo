@@ -7,8 +7,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZaloDotNetSDK", "src\sdk\Za
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppDemo.4.6", "src\ConsoleAppDemo\ConsoleAppDemo.4.6.csproj", "{AC432A63-AC64-4BDB-80F6-2796BD6F1C91}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zalo_console_test_35", "src\zalo_console_test_35\zalo_console_test_35.csproj", "{917FC6CC-7F90-48C5-A221-D18913538FFD}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,10 +21,6 @@ Global
 		{AC432A63-AC64-4BDB-80F6-2796BD6F1C91}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC432A63-AC64-4BDB-80F6-2796BD6F1C91}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC432A63-AC64-4BDB-80F6-2796BD6F1C91}.Release|Any CPU.Build.0 = Release|Any CPU
-		{917FC6CC-7F90-48C5-A221-D18913538FFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{917FC6CC-7F90-48C5-A221-D18913538FFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{917FC6CC-7F90-48C5-A221-D18913538FFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{917FC6CC-7F90-48C5-A221-D18913538FFD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
